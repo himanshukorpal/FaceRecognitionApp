@@ -12,7 +12,7 @@ const Logo = () => {
         <div className="Tilt-inner pa3">
           <img
             style={{ paddingTop: "5px" }}
-            alt="image of brain"
+            alt="brain"
             src={require("./brain.png")}
           />
         </div>
